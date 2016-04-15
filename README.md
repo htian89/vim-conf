@@ -1,4 +1,5 @@
-# vim-configuration
-Vim configuration
+# vim-configurations
+Vim configurations
 
-Copy the files and direction to USER's home direction.
+Link the files and directory to USER's home directory:
+#./configure.sh
