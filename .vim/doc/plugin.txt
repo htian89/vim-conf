@@ -1,0 +1,11 @@
+/*************minibufexplorer***************/
+记住几个常用的命令（从SO上学来的）：
+
+    * :e <filename> 打开文件
+    * :ls    当前打开的buf
+    * :bn    下一个buf
+    * :bp    前一个buf
+    * :b<n>    n是数字，第n个buf
+    * :b<tab>    自动补齐
+    * :bd    删除buf
+
